@@ -2,7 +2,7 @@
 
 **Student. Engineer. Yogi. Aspiring triathlete. Believer. Above all, human.**
 
-I’m currently a junior at the University of Rochester, double majoring in Computer Science and Finance. This spring, I’ll be studying Computer Engineering at Queen Mary University in London, UK.
+I’m currently a junior at the University of Rochester, double majoring in Computer Science and Finance. This spring, I’ll be studying Electronic and Computer Engineering at Queen Mary University in London, UK.
 
 ### About Me
 -  **Research Interests**: Time complexity analysis, optimization, memory management, and cache locality. 2024 Summer Research Assistant under Professor Chen Ding (REU NSF Funding).

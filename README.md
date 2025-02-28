@@ -1,6 +1,6 @@
 # Hi! My name is Adelya 
 
-**Student. Engineer. Yogi. Aspiring triathlete. Believer. Above all, human.**
+**Student. Engineer. Yogi. Believer. Above all, human.**
 
 I’m currently a junior at the University of Rochester, double majoring in Computer Science and Finance. This spring, I’ll be studying Electronic and Computer Engineering at Queen Mary University in London, UK.
 

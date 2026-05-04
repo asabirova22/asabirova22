@@ -1,6 +1,5 @@
 # Hi! My name is Adelya 
 
-**Student. Engineer. Believer. Above all, human.**
 
 I am currently a senior at the University of Rochester, pursuing a double major in Computer Science and Finance. I previously studied abroad at Queen Mary University of London (Jan–June 2025), where I concentrated in Electrical and Computer Engineering.
 
